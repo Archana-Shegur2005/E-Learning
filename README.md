@@ -4,7 +4,7 @@ Bloom Learning Hub is a **responsive static frontend website** designed as part 
 The project demonstrates strong **UI responsiveness, layout structuring, and user experience** across desktop, tablet, and mobile devices.
 
 🔗 **Live Demo:** https://e-leraningdemo.netlify.app/  
-📁 **GitHub Repository:** https://github.com/Archana-Shegur2005/E-Learning/tree/main/bloom-learning-hub  
+📁 **GitHub Repository:** https://github.com/Archana-Shegur2005/E-Learning/ 
 
 ---
 
