@@ -119,7 +119,6 @@ Design a **responsive static website** that:
 git clone https://github.com/Archana-Shegur2005/E-Learning.git
 cd bloom-learning-hub
 npm install
-npm start
+npm run dev
 
-## 📂 Project Structure
 
